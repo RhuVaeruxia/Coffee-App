@@ -3,7 +3,6 @@ import { Link, Router, Routes, Route } from "react-router-dom";
 // import "./App.css";
 
 import { useState } from "react";
-// import { flushSync } from "react-dom";
 
 export default function Crown() {
   const menubar = ["Welcome", "Red", "Gold", "Platinum"];
