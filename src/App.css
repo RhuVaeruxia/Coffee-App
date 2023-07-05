@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-link {
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
+
+.app-link {
+  text-decoration: none;
+  color: dodgerblue;
+  margin: 0;
+  padding: 0;
+}
+
+.app-link {
+  color: dodgerblue;
+
+  /* text-decoration: none; */
+}
+
+.app-link.selected {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.btn-coin {
+  /* width: 4em; */
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 1em;
+  /* border-radius: 0.5rem; */
+  /* background-color: #61dafb; */
+}
+
+.btn-menu {
+  display: flex;
+  margin-right: 0.5em;
+  font-size: 1.1rem;
+}
+
+.btn-menu-item {
+  margin-left: 10px;
+}
